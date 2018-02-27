@@ -6495,6 +6495,7 @@ $wgConf->settings = array(
 		'alternatehistory' => "//$wmgUploadHostname/alternatehistorywiki/b/bc/Wiki.png",
 		'alwikiwiki' => "//$wmgUploadHostname/alwikiwiki/3/35/WikiLogo.png",
 		'amaninfowiki' => "//$wmgUploadHostname/amaninfowiki/c/c9/Logo.png",
+		'almanachdebauswicwiki' => "//$wmgUploadHostname/almanachdebauswicwikie/e4/LogodaWiki.png",
 		'amicitiawiki' => "//$wmgUploadHostname/amicitiawiki/9/9b/Amicitia_logo.png",
 		'animationmoviewikiwiki' => "//$wmgUploadHostname/animationmoviewikiwiki/b/bd/Fdg.PNG",
 		'anjunawiki' => "//$wmgUploadHostname/anjunawiki/thumb/1/19/Formross2_logo.jpg/120px-Formross2_logo.jpg",
